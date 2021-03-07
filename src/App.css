@@ -40,7 +40,10 @@ h1 {
   margin-top: 20px;
   margin-bottom: 10px;
 }
-
+.message {
+  margin: 0 auto;
+  font-size: 2em;
+}
 
 
 @media only screen and (max-device-width: 900px) {
@@ -60,6 +63,9 @@ h1 {
   .pictures {
     width: 90%;
   }
-  .main {
+  .message {
+    margin: 0 auto;
+    font-size: 1em;
+    margin-top: 10px;
   }
 }
