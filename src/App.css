@@ -61,7 +61,8 @@ h1 {
     font-size: 4rem;
   }
   .pictures {
-    width: 50%;
+    width: 90%;
+    height: auto;
   }
   .message {
     margin: 0 auto;
