@@ -10,6 +10,17 @@ import pic7 from './assets/pic7.jpeg'
 import pic8 from './assets/pic8.png'
 import pic9 from './assets/pic9.jpeg'
 import pic10 from './assets/pic10.jpeg'
+import pic11 from './assets/pic11.jpeg'
+import pic12 from './assets/pic12.jpeg'
+import pic13 from './assets/pic13.jpeg'
+import pic14 from './assets/pic14.jpg'
+import pic15 from './assets/pic15.jpg'
+import pic16 from './assets/pic16.jpg'
+import pic17 from './assets/pic17.jpg'
+import pic18 from './assets/pic18.jpg'
+import pic19 from './assets/pic19.jpg'
+import pic20 from './assets/pic20.jpg'
+import pic21 from './assets/pic21.jpg'
 
 class App extends Component {
   render() {
@@ -22,17 +33,90 @@ class App extends Component {
           </div>
         </div>
         <div className="main">
-          <div className="message">With love from: Jamie Lynn, Lisa from San Clemente</div>
-          <img src={ pic1 } alt="Erik" className="pictures" />
-          <img src={ pic2 } alt="Erik" className="pictures" />
-          <img src={ pic3 } alt="Erik" className="pictures" />
-          <img src={ pic4 } alt="Erik" className="pictures" />
-          <img src={ pic5 } alt="Erik" className="pictures" />
-          <img src={ pic10 } alt="Erik" className="pictures" />
-          <img src={ pic6 } alt="Erik" className="pictures" />
-          <img src={ pic8 } alt="Erik" className="pictures" />
-          <img src={ pic7 } alt="Erik" className="pictures" />
-          <img src={ pic9 } alt="Erik" className="pictures" />
+          <div className="container">
+            <img src={ pic18 } alt="Erik" className="pictures" />
+            <div className="message">Sent from Texas Mike</div>
+          </div>
+          <div className="container">
+            <img src={ pic1 } alt="Erik" className="pictures" />
+            <div className="message">Sent from Lisa (San Clemente)</div>
+          </div>
+          <div className="container">
+            <img src={ pic2 } alt="Erik" className="pictures" />
+            <div className="message">Sent from Jamie Lynn</div>
+          </div>
+          <div className="container">
+            <img src={ pic13 } alt="Erik" className="pictures" />
+            <div className="message">Sent from Nancy</div>
+          </div>
+          <div className="container">
+            <img src={ pic12 } alt="Erik" className="pictures" />
+            <div className="message">Sent from Lori and John</div>
+          </div>
+          <div className="container">
+            <img src={ pic3 } alt="Erik" className="pictures" />
+            <div className="message">Sent from Jamie Lynn</div>
+          </div>
+          <div className="container">
+            <img src={ pic11 } alt="Erik" className="pictures" />
+            <div className="message">Sent from Lori and John</div>
+          </div>
+          <div className="container">
+            <img src={ pic19 } alt="Erik" className="pictures" />
+            <div className="message">Sent from Texas Mike</div>
+          </div>
+          <div className="container">
+            <img src={ pic4 } alt="Erik" className="pictures" />
+            <div className="message">Sent from Jamie Lynn</div>
+          </div>
+          <div className="container">
+            <img src={ pic5 } alt="Erik" className="pictures" />
+            <div className="message">Sent from Sarah</div>
+          </div>
+          <div className="container">
+            <img src={ pic10 } alt="Erik" className="pictures" />
+            <div className="message">Sent from Lisa (San Clemente)</div>
+          </div>
+          <div className="container">
+            <img src={ pic15 } alt="Erik" className="pictures" />
+            <div className="message">Sent from John and Lori</div>
+          </div>
+          <div className="container">
+            <img src={ pic21 } alt="Erik" className="pictures" />
+            <div className="message">Sent from Benjamin</div>
+          </div>
+          <div className="container">
+            <img src={ pic6 } alt="Erik" className="pictures" />
+            <div className="message">Sent from Sarah</div>
+          </div>
+          <div className="container">
+            <img src={ pic14 } alt="Erik" className="pictures" />
+            <div className="message">Sent from Lori and John</div>
+          </div>
+          <div className="container">
+            <img src={ pic16 } alt="Erik" className="pictures" />
+            <div className="message">Sent from Lori and John</div>
+          </div>
+          <div className="container">
+            <img src={ pic8 } alt="Erik" className="pictures" />
+            <div className="message">Sent from Lori and John</div>
+          </div>
+          <div className="container">
+            <img src={ pic7 } alt="Erik" className="pictures" />
+            <div className="message">Sent from Lori and John</div>
+          </div>
+          <div className="container">
+            <img src={ pic9 } alt="Erik" className="pictures" />
+            <div className="message">Sent from Lisa (San Clemente)</div>
+          </div>
+          <div className="container">
+            <img src={ pic17 } alt="Erik" className="pictures" />
+            <div className="message">Sent from Madsen</div>
+          </div>
+          <div className="container">
+            <img src={ pic20 } alt="Erik" className="pictures" />
+            <div className="message">Sent from Texas Mike</div>
+          </div>
         </div>
       </>
     )
