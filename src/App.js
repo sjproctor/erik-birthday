@@ -25,6 +25,11 @@ import pic22 from './assets/pic22.jpg'
 import pic23 from './assets/pic23.jpg'
 import pic24 from './assets/pic24.jpg'
 import pic25 from './assets/pic25.jpg'
+import pic26 from './assets/pic26.jpg'
+import pic27 from './assets/pic27.jpg'
+import pic28 from './assets/pic28.jpg'
+import pic29 from './assets/pic29.jpg'
+import pic30 from './assets/pic30.jpg'
 
 class App extends Component {
   render() {
@@ -58,6 +63,10 @@ class App extends Component {
             <div className="message">Sent from Nancy</div>
           </div>
           <div className="container">
+            <img src={ pic26 } alt="Erik" className="pictures" />
+            <div className="message">Sent from Kayti Joe</div>
+          </div>
+          <div className="container">
             <img src={ pic12 } alt="Erik" className="pictures" />
             <div className="message">Sent from Lori and John</div>
           </div>
@@ -74,6 +83,10 @@ class App extends Component {
             <div className="message">Sent from Texas Mike</div>
           </div>
           <div className="container">
+            <img src={ pic27 } alt="Erik" className="pictures" />
+            <div className="message">Sent from Kayti Joe</div>
+          </div>
+          <div className="container">
             <img src={ pic23 } alt="Erik" className="pictures" />
             <div className="message">Sent from John and Lori</div>
           </div>
@@ -84,6 +97,10 @@ class App extends Component {
           <div className="container">
             <img src={ pic5 } alt="Erik" className="pictures" />
             <div className="message">Sent from Sarah</div>
+          </div>
+          <div className="container">
+            <img src={ pic28 } alt="Erik" className="pictures" />
+            <div className="message">Sent from Kayti Joe</div>
           </div>
           <div className="container">
             <img src={ pic24 } alt="Erik" className="pictures" />
@@ -104,6 +121,10 @@ class App extends Component {
           <div className="container">
             <img src={ pic25 } alt="Erik" className="pictures" />
             <div className="message">Sent from John and Lori</div>
+          </div>
+          <div className="container">
+            <img src={ pic29 } alt="Erik" className="pictures" />
+            <div className="message">Sent from Kayti Joe</div>
           </div>
           <div className="container">
             <img src={ pic6 } alt="Erik" className="pictures" />
@@ -128,6 +149,10 @@ class App extends Component {
           <div className="container">
             <img src={ pic9 } alt="Erik" className="pictures" />
             <div className="message">Sent from Lisa (San Clemente)</div>
+          </div>
+          <div className="container">
+            <img src={ pic30 } alt="Erik" className="pictures" />
+            <div className="message">Sent from Kayti Joe</div>
           </div>
           <div className="container">
             <img src={ pic17 } alt="Erik" className="pictures" />
