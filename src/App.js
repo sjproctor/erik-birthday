@@ -1,5 +1,7 @@
 import React, { Component } from 'react'
 import './App.css'
+import sand1 from './assets/sand1.jpg'
+import sand2 from './assets/sand2.jpg'
 import pic1 from './assets/pic1.jpeg'
 import pic2 from './assets/pic2.jpeg'
 import pic3 from './assets/pic3.jpeg'
@@ -46,6 +48,13 @@ import pic43 from './assets/pic43.jpg'
 import pic44 from './assets/pic44.jpg'
 import pic45 from './assets/pic45.jpg'
 import pic46 from './assets/pic46.jpg'
+import pic47 from './assets/pic47.jpg'
+import pic48 from './assets/pic48.jpg'
+import pic49 from './assets/pic49.jpg'
+import pic50 from './assets/pic50.jpg'
+import pic51 from './assets/pic51.jpg'
+import pic52 from './assets/pic52.jpg'
+
 
 class App extends Component {
   render() {
@@ -67,6 +76,10 @@ class App extends Component {
             <div className="message">From Sarah</div>
           </div>
           <div className="container">
+            <img src={ pic47 } alt="Erik" className="pictures" />
+            <div className="message">From John and Lori</div>
+          </div>
+          <div className="container">
             <img src={ pic1 } alt="Erik" className="pictures" />
             <div className="message">From Lisa (San Clemente)</div>
           </div>
@@ -81,6 +94,10 @@ class App extends Component {
           <div className="container">
             <img src={ pic13 } alt="Erik" className="pictures" />
             <div className="message">From Nancy</div>
+          </div>
+          <div className="container">
+            <img src={ pic48 } alt="Erik" className="pictures" />
+            <div className="message">From John and Lori</div>
           </div>
           <div className="container">
             <img src={ pic26 } alt="Erik" className="pictures" />
@@ -105,6 +122,10 @@ class App extends Component {
           <div className="container">
             <img src={ pic41 } alt="Erik" className="pictures" />
             <div className="message">From Sam and Amanda</div>
+          </div>
+          <div className="container">
+            <img src={ pic49 } alt="Erik" className="pictures" />
+            <div className="message">From John and Lori</div>
           </div>
           <div className="container">
             <img src={ pic19 } alt="Erik" className="pictures" />
@@ -139,6 +160,10 @@ class App extends Component {
             <div className="message">From Sam and Amanda</div>
           </div>
           <div className="container">
+            <img src={ pic50 } alt="Erik" className="pictures" />
+            <div className="message">From John and Lori</div>
+          </div>
+          <div className="container">
             <img src={ pic5 } alt="Erik" className="pictures" />
             <div className="message">From Sarah</div>
           </div>
@@ -161,6 +186,10 @@ class App extends Component {
           <div className="container">
             <img src={ pic40 } alt="Erik" className="pictures" />
             <div className="message">From Becky</div>
+          </div>
+          <div className="container">
+            <img src={ pic51 } alt="Erik" className="pictures" />
+            <div className="message">From John and Lori</div>
           </div>
           <div className="container">
             <img src={ pic43 } alt="Erik" className="pictures" />
@@ -187,7 +216,7 @@ class App extends Component {
             <div className="message">From Benjamin</div>
           </div>
           <div className="container">
-            <img src={ pic21 } alt="Erik" className="pictures" />
+            <img src={ pic52 } alt="Erik" className="pictures" />
             <div className="message">From John and Lori</div>
           </div>
           <div className="container">
@@ -221,6 +250,14 @@ class App extends Component {
           <div className="container">
             <img src={ pic37 } alt="Erik" className="pictures" />
             <div className="message">From Becky</div>
+          </div>
+          <div className="container">
+            <img src={ sand1 } alt="Erik" className="pictures" />
+            <div className="message">From Sarah</div>
+          </div>
+          <div className="container">
+            <img src={ sand2 } alt="Erik" className="pictures" />
+            <div className="message">From Lori and John</div>
           </div>
           <div className="container">
             <img src={ pic7 } alt="Erik" className="pictures" />
