@@ -87,6 +87,10 @@ class App extends Component {
             <div className="message">From Kayti Joe</div>
           </div>
           <div className="container">
+            <img src={ pic44 } alt="Erik" className="pictures" />
+            <div className="message">From John and Lori</div>
+          </div>
+          <div className="container">
             <img src={ pic12 } alt="Erik" className="pictures" />
             <div className="message">From Lori and John</div>
           </div>
@@ -225,6 +229,10 @@ class App extends Component {
           <div className="container">
             <img src={ pic9 } alt="Erik" className="pictures" />
             <div className="message">From Lisa (San Clemente)</div>
+          </div>
+          <div className="container">
+            <img src={ pic45 } alt="Erik" className="pictures" />
+            <div className="message">From John and Lori</div>
           </div>
           <div className="container">
             <img src={ pic30 } alt="Erik" className="pictures" />
