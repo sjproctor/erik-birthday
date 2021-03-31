@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.92a6ffa2.chunk.css",
-    "main.js": "/static/js/main.6b1e8ce9.chunk.js",
-    "main.js.map": "/static/js/main.6b1e8ce9.chunk.js.map",
+    "main.js": "/static/js/main.1f56cb9f.chunk.js",
+    "main.js.map": "/static/js/main.1f56cb9f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.33cbe624.js",
     "runtime-main.js.map": "/static/js/runtime-main.33cbe624.js.map",
     "static/js/2.c75f54af.chunk.js": "/static/js/2.c75f54af.chunk.js",
@@ -54,16 +54,24 @@
     "static/media/pic44.779bb81e.jpg": "/static/media/pic44.779bb81e.jpg",
     "static/media/pic45.cc90f59d.jpg": "/static/media/pic45.cc90f59d.jpg",
     "static/media/pic46.c98f0153.jpg": "/static/media/pic46.c98f0153.jpg",
+    "static/media/pic47.d9334b12.jpg": "/static/media/pic47.d9334b12.jpg",
+    "static/media/pic48.a0342a78.jpg": "/static/media/pic48.a0342a78.jpg",
+    "static/media/pic49.f08084a8.jpg": "/static/media/pic49.f08084a8.jpg",
     "static/media/pic5.dcc414f3.jpeg": "/static/media/pic5.dcc414f3.jpeg",
+    "static/media/pic50.a31b6c80.jpg": "/static/media/pic50.a31b6c80.jpg",
+    "static/media/pic51.887ec98b.jpg": "/static/media/pic51.887ec98b.jpg",
+    "static/media/pic52.de83220b.jpg": "/static/media/pic52.de83220b.jpg",
     "static/media/pic6.77074bde.jpeg": "/static/media/pic6.77074bde.jpeg",
     "static/media/pic7.5808782e.jpeg": "/static/media/pic7.5808782e.jpeg",
     "static/media/pic8.0b7c531b.png": "/static/media/pic8.0b7c531b.png",
-    "static/media/pic9.784e47dd.jpeg": "/static/media/pic9.784e47dd.jpeg"
+    "static/media/pic9.784e47dd.jpeg": "/static/media/pic9.784e47dd.jpeg",
+    "static/media/sand1.2946bac6.jpg": "/static/media/sand1.2946bac6.jpg",
+    "static/media/sand2.f58e13d7.jpg": "/static/media/sand2.f58e13d7.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.33cbe624.js",
     "static/js/2.c75f54af.chunk.js",
     "static/css/main.92a6ffa2.chunk.css",
-    "static/js/main.6b1e8ce9.chunk.js"
+    "static/js/main.1f56cb9f.chunk.js"
   ]
 }
